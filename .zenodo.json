@@ -1,0 +1,14 @@
+{
+  "title": "The Oslo Rice Pile Relaxes Exactly in L(L+1) Steps",
+  "upload_type": "software",
+  "description": "LaTeX source and verification code for the paper proving that the evolution operator of the Oslo rice pile on L sites satisfies W^(n+1) = W^n first at n = L(L+1), not at n = L(L+1)/2 as stated by Dhar: a configuration with g grains reaches the steady state after exactly L(L+1) - g + [last slope = 2] added grains, and the decorrelation time L(L+1)/2 holds exactly on recurrent configurations.",
+  "creators": [
+    {
+      "name": "Bhattacharjee, Deep",
+      "affiliation": "Electro-Gravitational Space Propulsion Laboratory (EGSPL)",
+      "orcid": "0000-0003-0466-750X"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["Oslo model", "abelian sandpile", "chip-firing"]
+}

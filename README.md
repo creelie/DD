@@ -7,4 +7,4 @@ cd code && python3 verify_oslo.py 5   # Theorem A, Proposition 6.1, Corollary B 
 python3 make_figure.py                # fig_relaxation.png; needs matplotlib
 ```
 
-Author: Deep Bhattacharjee. License: MIT.
+Author: Deep Bhattacharjee (GitHub-related contact: egspl@proton.me). License: MIT.
